@@ -1,0 +1,26 @@
+.container {
+  margin: auto;
+  padding: auto;
+  margin-top: 5%;
+}
+.ant-spin-lg .ant-spin-dot {
+  font-size: 41px;
+  margin-left: 74vh;
+  margin-top: 30vh;
+}
+.ip {
+  overflow: visible;
+  position: absolute;
+  margin-top: -6vh;
+  margin-left: 105vh;
+  border-radius: 10px;
+  border-color: gray;
+  padding: 5px;
+}
+.anticon svg {
+  display: inline-block;
+  position: absolute;
+  margin-top: -7.2vh;
+  margin-left: 101vh;
+  font-size: x-large;
+}
